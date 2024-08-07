@@ -1,0 +1,53 @@
+.banner{
+    width: 100%;
+    height: 100vh;
+    background-image: url('../../public/banner-home.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:#F9DB79 ;
+}
+
+.banner h1{
+    font-size: 100px;
+    text-align: center;
+    color: white;
+    text-shadow: 3px 5px 2px #474747;
+}
+
+.container{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+}
+
+.boxHome{
+    width: 50%;
+    height: auto;
+}
+
+.boxTextHome{
+    text-align: center;
+    padding: 100px 50px;
+}
+
+.boxTextHome h2{
+    font-size: 36px;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+.boxTextHome span{
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.boxTextHome p{
+    font-size: 16px;
+    margin-top: 20px;
+}
