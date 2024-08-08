@@ -13,7 +13,7 @@ export default function Topo(){
                     <ul>
                         <li><Link href='\'>Home</Link></li>
                         <li><Link href='\sabores'>Sabores</Link></li>
-                        <li><Link href='\Sobre'>Sobre</Link></li>
+                        <li><Link href='\sobre'>Sobre</Link></li>
                     </ul>
                 </nav>
             </div>
